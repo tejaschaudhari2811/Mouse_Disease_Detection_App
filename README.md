@@ -19,3 +19,11 @@
 - Images collected from https://www.criver.com/resources/info-pi-rm-common-rodent-health-conditions-poster
 - Label tool :- https://github.com/tzutalin/labelImg
 
+### Phase 2:
+- Train Classifier 
+- Choose latest augmentation library AugLy from Facebook
+- Latest Model
+
+### Phase 3:
+- Create a Web app using Flask to deploy the model
+- https://medium.com/swlh/how-to-create-an-interactive-machine-learning-web-application-using-flask-and-heroku-5ae76a45bfc5
