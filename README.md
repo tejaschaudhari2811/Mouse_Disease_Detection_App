@@ -1,5 +1,5 @@
 # Mouse_Disease_Detector
-# Mouse disease identification for an image Uploaded to an Interactive Website created using Flask
+# Mouse disease identification for an image clicked using mobile phone.
 
 ## Plan:
 1. Use bing image downloader to collect images
