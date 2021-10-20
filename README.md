@@ -18,6 +18,7 @@
 - 3 Diseases :- Emaciation, Dermatitis, Blepharitis 
 - Images collected from https://www.criver.com/resources/info-pi-rm-common-rodent-health-conditions-poster
 - Label tool :- https://github.com/tzutalin/labelImg
+- Tutorials :- https://www.youtube.com/playlist?list=PLeo1K3hjS3ut49PskOfLnE6WUoOp_2lsD
 
 ### Phase 2:
 - Train Classifier 
